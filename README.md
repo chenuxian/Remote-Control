@@ -13,10 +13,9 @@ Go into the src folder, and type these command on your terminal.
 Or you can just directly run these program on IDE, like eclipse.   
 
 **Server**:
-<code>
-    javac ServerLoginFrame.java   
-    java ServerLoginFrame   
-</code>
+<code>javac ServerLoginFrame.java</code>
+<code>java ServerLoginFrame</code>   
+
 
 You will see 
 ![server's screenshot](/img/server.png)
@@ -27,10 +26,9 @@ STEP3: Wait client
 ***
 
 **Client**:
-<code>
-    javac LoginFrame.java   
-    java LoginFrame   
-</code>
+<code>javac LoginFrame.java</code>
+<code>java LoginFrame</code>
+
 
 You will see
 ![client's screenshot](/img/client.png)
