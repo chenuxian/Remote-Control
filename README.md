@@ -6,6 +6,9 @@ This is our team's final project of the course in June 2015, here is the develop
 馮禹德, 陳與賢, 石碩亨, 徐銘宏, 王強毅   
 I contributed to the part of sending screenshot.
 
+# Requirement
+Suggested JDK, JRE version
+![client's screenshot](/img/version.png)
 
 # How to run?
 First, you need 2 computers, one run as the server, and the other run as the client.   
@@ -35,7 +38,3 @@ You will see
 STEP1: Input the server's IP and password   
 STEP2: Click the button   
 STEP3: Now you can control the server's computer   
-
-# Requirement
-Suggested JDK, JRE version
-![client's screenshot](/img/version.png)
