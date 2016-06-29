@@ -7,9 +7,10 @@ This is our team's final project of the course in June 2015, here is the develop
 I contributed to the part of sending screenshot.
 
 
-## How to run?
+# How to run?
 First, you need 2 computers, one run as the server, and the other run as the client.   
-Go into the src folder, and type these command on your terminal:   
+Go into the src folder, and type these command on your terminal.   
+Or you can just directly run these program on IDE, like eclipse.   
 
 **Server**:
 <code>
@@ -37,10 +38,6 @@ STEP1: Input the server's IP and password
 STEP2: Click the button   
 STEP3: Now you can control the server's computer   
 
-***
-
-Or you can just directly run these program on IDE, like eclipse.   
-
-## Requirement
+# Requirement
 Suggested JDK, JRE version
 ![client's screenshot](/img/version.png)
