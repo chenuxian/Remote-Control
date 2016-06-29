@@ -1,5 +1,5 @@
 # Remote-Control-Via-Java-Socket
-This is a program that client can remote control server via java socket.
+Client can remote control server via java socket.
 
 # Introduction
 This is my team's final project of the "java programming" course in June 2015, here is the developers list:   
