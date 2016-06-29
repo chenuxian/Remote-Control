@@ -12,8 +12,8 @@ First, you need 2 computers, one run as the server, and the other run as the cli
 Go into the src folder, and type these command on your terminal.   
 Or you can just directly run these program on IDE, like eclipse.   
 
-**Server**:
-<code>javac ServerLoginFrame.java</code>
+**Server**:   
+<code>javac ServerLoginFrame.java</code>   
 <code>java ServerLoginFrame</code>   
 
 
@@ -25,8 +25,8 @@ STEP3: Wait client
 
 ***
 
-**Client**:
-<code>javac LoginFrame.java</code>
+**Client**:   
+<code>javac LoginFrame.java</code>   
 <code>java LoginFrame</code>
 
 
