@@ -2,7 +2,7 @@
 Client can remote control server via java socket.
 
 # Introduction
-This is my team's final project of the "java programming" course in June 2015, here is the developers list:   
+This is final project of the "java programming" course in June 2015 with my partner:
 馮禹德, 陳與賢, 石碩亨, 徐銘宏, 王強毅   
 I contributed to the part of sending screenshot.
 
